@@ -1,0 +1,9 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "morenorcraftextra:block/grass_bottom",
+    "top": "morenorcraftextra:block/swamp_grass2_top",
+    "side": "minecraft:block/dirt",
+    "overlay": "morenorcraftextra:block/swamp_grass2_side"
+  }
+}

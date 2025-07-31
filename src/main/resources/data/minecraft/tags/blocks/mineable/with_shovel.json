@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "pokecubedextra:plains_grass_block",
+    "pokecubedextra:desert_grass_block",
+    "pokecubedextra:jungle_grass_block",
+    "pokecubedextra:taiga_grass_block",
+    "pokecubedextra:swamp_grass_block",
+    "pokecubedextra:savanna_grass_block"
+  ]
+}

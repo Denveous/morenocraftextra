@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,powered=false": { "model": "morenorcraftextra:block/door_sensor_impulse" },
+    "facing=north,powered=true": { "model": "morenorcraftextra:block/door_sensor_impulse" },
+    "facing=south,powered=false": { "model": "morenorcraftextra:block/door_sensor_impulse", "y": 180 },
+    "facing=south,powered=true": { "model": "morenorcraftextra:block/door_sensor_impulse", "y": 180 },
+    "facing=west,powered=false": { "model": "morenorcraftextra:block/door_sensor_impulse", "y": 270 },
+    "facing=west,powered=true": { "model": "morenorcraftextra:block/door_sensor_impulse", "y": 270 },
+    "facing=east,powered=false": { "model": "morenorcraftextra:block/door_sensor_impulse", "y": 90 },
+    "facing=east,powered=true": { "model": "morenorcraftextra:block/door_sensor_impulse", "y": 90 }
+  }
+}

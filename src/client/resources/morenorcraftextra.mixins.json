@@ -1,0 +1,10 @@
+{
+  "injectors": {
+    "defaultRequire": 1
+  }, 
+  "compatibilityLevel": "JAVA_21", 
+  "required": true, 
+  "refmap": "morenorcraftextra.refmap.json", 
+  "client": [],
+  "package": "net.morenorcraftextra.mixin"
+}

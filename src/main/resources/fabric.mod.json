@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "Denveous"
+  ], 
+  "environment": "*", 
+  "icon": "assets/morenorcraftextra/icon.png", 
+  "entrypoints": {
+    "main": [
+      "net.morenorcraftextra.MorenoCraftExtra"
+    ],
+    "client": [
+      "net.morenorcraftextra.MorenoCraftExtraClient"
+    ]
+  }, 
+  "description": "Adds extra blocks and resources for the MorenoCraft server.", 
+  "id": "morenorcraftextra", 
+  "mixins": ["morenorcraftextra.mixins.json"],
+  "name": "MorenoCraft Extra", 
+  "license": "MIT", 
+  "contact": {}, 
+  "version": "1.0.0", 
+  "depends": {
+    "fabricloader": ">=0.15.0", 
+    "fabric-api": "*", 
+    "minecraft": "~1.21.1", 
+    "java": ">=21"
+  }, 
+  "schemaVersion": 1
+}

@@ -1,0 +1,12 @@
+{
+  "block.morenorcraftextra.plains_grass_block": "Plains Grass Block",
+  "block.morenorcraftextra.desert_grass_block": "Desert Grass Block",
+  "block.morenorcraftextra.jungle_grass_block": "Jungle Grass Block",
+  "block.morenorcraftextra.taiga_grass_block": "Taiga Grass Block",
+  "block.morenorcraftextra.swamp_grass_block": "Swamp Grass Block",
+  "block.morenorcraftextra.savanna_grass_block": "Savanna Grass Block",
+  "itemgroup.moreno_craft_extra": "Moreno Craft Extra",
+  "item.morenorcraftextra.tab_icon": "Moreno Craft Extra", 
+  "block.morenorcraftextra.door_sensor": "Door Sensor",
+  "block.morenorcraftextra.door_sensor_impulse": "Door Sensor (Impulse)"
+}
